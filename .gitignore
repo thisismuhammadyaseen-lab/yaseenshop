@@ -1,0 +1,46 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+server.cjs.backup# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Private configuration and backups
+.env
+.env.*
+!.env.example
+server.cjs.backup
+create-admin.cjs
+*.backup
+*.before-background
+src/Admin Dashboard ki CSS
+
+# Local backup files
+*.backup
+*.before-backend
+*.before-background
+*.premium-backup
